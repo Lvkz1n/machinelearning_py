@@ -89,7 +89,7 @@ Bag-of-Words
 Conclusão
 Este projeto demonstra como pré-processar textos, criar representações de texto (Bag-of-Words e TF-IDF), treinar um modelo de Regressão Logística e avaliar seu desempenho. A precisão obtida pode ser um ponto de partida para melhorar o modelo com técnicas adicionais de processamento de linguagem natural e modelos de aprendizado mais avançados.
 
-
+Fonte: https://www.kaggle.com/datasets/iamrahulthorat/fakenews-csv/data
 
 
 
