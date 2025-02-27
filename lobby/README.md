@@ -7,7 +7,7 @@ Para executar este projeto, você precisa ter instalados os seguintes pacotes Py
 
 pandas
 scikit-learn
-Você pode instalar esses pacotes usando pip:
+. Você pode instalar esses pacotes usando pip:
    pip install pandas scikit-learn
 
 Estrutura do Código
