@@ -28,8 +28,6 @@ Passo a Passo
     from sklearn.metrics import accuracy_score
 
 2. Carregamento do Dataset
-  # Caminho absoluto para o arquivo CSV
-  caminho_absoluto = r"C:\Users\Luiz LVK\Documents\GitHub\bot_py\lobby\fakenews.csv"
 
   # Carregamento do dataset
   df = pd.read_csv(caminho_absoluto)
